@@ -67,7 +67,7 @@
     width: 80%;
     margin: auto;
     height: 54vh;
-    background-image:linear-gradient(rgba(5, 55, 219, 0.7),rgba(9, 71, 122, 0.2)), url('../Project/images/flight.jpg');
+    background-image:linear-gradient(rgba(5, 55, 219, 0.7),rgba(9, 71, 122, 0.2)), url('../Project(CSS)/images/flight.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
     font-size: 18px;
